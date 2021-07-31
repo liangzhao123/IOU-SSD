@@ -2,8 +2,9 @@
 ## Segmentation based two stage detector 
 ### ROS implementation for Seg-RCNN see:
 https://v.youku.com/v_show/id_XNDk1MjQxMzg4NA==.html?spm=a2h0c.8166622.PhoneSokuUgc_1.dtitle
+#### [blog](https://blog.csdn.net/liang_shuaige/article/details/114854061?spm=1001.2014.3001.5501)
 
-# LZnet: two-stage object detector from point cloud
+# LZnet: two-stage 3D object detector from point cloud
 Currently testing in KITTI BEV and 3rd in KITTI 3D.
 
 
