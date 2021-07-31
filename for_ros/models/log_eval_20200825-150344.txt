@@ -1,0 +1,3 @@
+2020-08-25 15:03:46,450   INFO  ****Load paramters from checkpoint /home/liang/PVRCNN-V1.1/ckpt/PVAnet/checkpoint_epoch_80.pth to GPU
+2020-08-25 15:03:46,506   INFO  ===>checkpoint trained from version:none
+2020-08-25 15:03:46,895   INFO  ==>Done (load 367/367)
